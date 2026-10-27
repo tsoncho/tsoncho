@@ -1,8 +1,8 @@
 # Tsoncho Terziyski
 
-Software specialist in Sofia. I build desktop apps, realtime web products, and practical automation. Student and independent builder, open to work.
+Software specialist in Sofia. I build desktop apps, realtime web products, and practical automation. Student and independent builder, open to product, contract, and internship work.
 
-**[tsoncho.com](https://tsoncho.com)** | **[terziiskitsoncho@gmail.com](mailto:terziiskitsoncho@gmail.com)** | Sofia, Bulgaria
+**[tsoncho.com](https://tsoncho.com)** | **[terziiskitsoncho@gmail.com](mailto:terziiskitsoncho@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/tsoncho)** | Sofia, Bulgaria
 
 ## Selected work
 
@@ -32,4 +32,4 @@ Client and commercial repositories stay private. This profile shows the work I c
 
 Open to product roles, contract work, and internships. Sofia or remote.
 
-Email [terziiskitsoncho@gmail.com](mailto:terziiskitsoncho@gmail.com) or use the site: [tsoncho.com](https://tsoncho.com).
+Email [terziiskitsoncho@gmail.com](mailto:terziiskitsoncho@gmail.com), use [tsoncho.com](https://tsoncho.com), or reach me on [LinkedIn](https://www.linkedin.com/in/tsoncho).
